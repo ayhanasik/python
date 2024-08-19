@@ -4,7 +4,7 @@ Oyuncu ve bilgisayarın karşılıklı tahminleri sonucu ilk iki puanı toplayan
 Dilin özelliklerinden kullanılanlar.
 * Modül import
 * Değişken tanımları
-* Kullanıcdan bilgi alma
+* Kullanıcıdan bilgi alma
 * Döngüler
 * if-elif-else blokları
 * fonksiyon kullanımı
